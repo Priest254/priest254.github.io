@@ -1,0 +1,13 @@
+.DVR_PI_fault_neural_ntwk0,
+.DVR_PI_fault_neural_ntwk1,
+.DVR_PI_fault_neural_ntwk2,
+.DVR_PI_fault_neural_ntwk3,
+.DVR_PI_fault_neural_ntwk4,
+.DVR_PI_fault_neural_ntwk5 { background-image: url('DVR_PI_fault_neural_ntwk_icons.png'); width: 16px; height: 16px; }
+
+.DVR_PI_fault_neural_ntwk0 { background-position: -0px; }
+.DVR_PI_fault_neural_ntwk1 { background-position: -16px; }
+.DVR_PI_fault_neural_ntwk2 { background-position: -32px; }
+.DVR_PI_fault_neural_ntwk3 { background-position: -48px; }
+.DVR_PI_fault_neural_ntwk4 { background-position: -64px; }
+.DVR_PI_fault_neural_ntwk5 { background-position: -80px; }

@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" display="inline" height="58.000000px" preserveAspectRatio="xMinYMin meet" viewBox="31.70 39.00 414.67 58.00" width="414.671875px" x="0" y="0" zoomAndPan="disable">
+  <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel">
+    <!--RAWSTRING-->
+    <g id="background" pointer-events="none">
+      <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,0,0)">
+        <path d="M32.6953,40 L445.367,40 L445.367,96 L32.6953,96 L32.6953,40 z" fill-rule="evenodd" vector-effect="none"/>
+      </g>
+      <!--RAWSTRING-->
+    </g>
+    <!--RAWSTRING-->
+    <g id="DVR_PI_fault_neural_ntwk:236">
+      <!--RAWSTRING-->
+      <g data-tags="blk">
+        <!--RAWSTRING-->
+        <g id="DVR_PI_fault_neural_ntwk:237">
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,40,60)">
+            <path d="M0,0 L20,0 L20,20 L0,20 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="blk">
+            <defs>
+              <clipPath id="clip2">
+                <path d="M40,60 L60,60 L60,80 L40,80 L40,60 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip2)" fill="#78e6b4" fill-opacity="1" opacity="1" stroke="#78e6b4" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+              <path d="M40,80 L60,80 L60,60 L40,60 L40,80 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip3">
+                <path d="M40,60 L60,60 L60,80 L40,80 L40,60 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip3)" fill="#509978" fill-opacity="1" opacity="1" stroke="#509978" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+              <path d="M40,80 L60,80 L60,60 L58,61 L58,78 L41,78 L40,80 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip4">
+                <path d="M40,60 L60,60 L60,80 L40,80 L40,60 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip4)" fill="#a5eecd" fill-opacity="1" opacity="1" stroke="#a5eecd" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+              <path d="M40,80 L40,60 L60,60 L58,61 L41,61 L41,78 L40,80 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip5">
+                <path d="M39.5,59.5 L59.5,59.5 L59.5,79.5 L39.5,79.5 L39.5,59.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip5)" fill="#a5eecd" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="40,79 59,79" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip6">
+                <path d="M39.5,59.5 L59.5,59.5 L59.5,79.5 L39.5,79.5 L39.5,59.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip6)" fill="#a5eecd" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="59,79 59,60" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip7">
+                <path d="M39.5,59.5 L59.5,59.5 L59.5,79.5 L39.5,79.5 L39.5,59.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip7)" fill="#a5eecd" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="59,60 40,60" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip8">
+                <path d="M39.5,59.5 L59.5,59.5 L59.5,79.5 L39.5,79.5 L39.5,59.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip8)" fill="#a5eecd" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="40,60 40,79" vector-effect="none"/>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="blk frame">
+            <g clip-path="none" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,40,60)">
+              <path d="M0,0 L20,0 L20,20 L0,20 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="blk BlockName">
+            <defs>
+              <clipPath id="clip9">
+                <path d="M0,-44 L412.672,-44 L412.672,14 L0,14 L0,-44 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip9)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,32.6953,82)">
+              <text fill="#000000" fill-opacity="1" font-family="Arial" font-size="10" font-style="normal" font-weight="400" stroke="none" textLength="31.6094" x="1.5" xml:space="preserve" y="10">ad{2,1}</text>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="blk">
+        <!--RAWSTRING-->
+        <g id="DVR_PI_fault_neural_ntwk:240">
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,240,40)">
+            <path d="M0,0 L20,0 L20,40 L0,40 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="blk">
+            <defs>
+              <clipPath id="clip11">
+                <path d="M240,40 L260,40 L260,80 L240,80 L240,40 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip11)" fill="#7896e6" fill-opacity="1" opacity="1" stroke="#7896e6" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+              <path d="M240,80 L260,80 L260,40 L240,40 L240,80 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip12">
+                <path d="M240,40 L260,40 L260,80 L240,80 L240,40 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip12)" fill="#506499" fill-opacity="1" opacity="1" stroke="#506499" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+              <path d="M240,80 L260,80 L260,40 L258,42 L258,77 L241,77 L240,80 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip13">
+                <path d="M240,40 L260,40 L260,80 L240,80 L240,40 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip13)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#a5b9ee" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+              <path d="M240,80 L240,40 L260,40 L258,42 L241,42 L241,77 L240,80 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip14">
+                <path d="M239.5,39.5 L259.5,39.5 L259.5,79.5 L239.5,79.5 L239.5,39.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip14)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="240,79 259,79" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip15">
+                <path d="M239.5,39.5 L259.5,39.5 L259.5,79.5 L239.5,79.5 L239.5,39.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip15)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="259,79 259,40" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip16">
+                <path d="M239.5,39.5 L259.5,39.5 L259.5,79.5 L239.5,79.5 L239.5,39.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip16)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="259,40 240,40" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip17">
+                <path d="M239.5,39.5 L259.5,39.5 L259.5,79.5 L239.5,79.5 L239.5,39.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip17)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="240,40 240,79" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip18">
+                <path d="M-3,-10 L17,-10 L17,30 L-3,30 L-3,-10 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip18)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,243,50)">
+              <text fill="#000000" fill-opacity="1" font-family="Arial" font-size="10" font-style="normal" font-weight="400" stroke="none" textLength="7.21875" x="0" xml:space="preserve" y="3.5">w</text>
+            </g>
+            <defs>
+              <clipPath id="clip19">
+                <path d="M-3,-30 L17,-30 L17,10 L-3,10 L-3,-30 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip19)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,243,70)">
+              <text fill="#000000" fill-opacity="1" font-family="Arial" font-size="10" font-style="normal" font-weight="400" stroke="none" textLength="5.54688" x="0" xml:space="preserve" y="3.5">p</text>
+            </g>
+            <defs>
+              <clipPath id="clip20">
+                <path d="M-17,-20 L3,-20 L3,20 L-17,20 L-17,-20 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip20)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,257,60)">
+              <text fill="#000000" fill-opacity="1" font-family="Arial" font-size="10" font-style="normal" font-weight="400" stroke="none" textLength="5" x="-5" xml:space="preserve" y="3.5">z</text>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="blk frame">
+            <g clip-path="none" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,240,40)">
+              <path d="M0,0 L20,0 L20,40 L0,40 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="blk">
+        <!--RAWSTRING-->
+        <g id="DVR_PI_fault_neural_ntwk:238">
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,140,40)">
+            <path d="M0,0 L40,0 L40,20 L0,20 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="blk">
+            <defs>
+              <clipPath id="clip22">
+                <path d="M140,40 L180,40 L180,60 L140,60 L140,40 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip22)" fill="#7896e6" fill-opacity="1" opacity="1" stroke="#7896e6" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+              <path d="M140,60 L180,60 L180,40 L140,40 L140,60 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip23">
+                <path d="M140,40 L180,40 L180,60 L140,60 L140,40 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip23)" fill="#506499" fill-opacity="1" opacity="1" stroke="#506499" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+              <path d="M140,60 L180,60 L180,40 L177,41 L177,58 L142,58 L140,60 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip24">
+                <path d="M140,40 L180,40 L180,60 L140,60 L140,40 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip24)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#a5b9ee" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+              <path d="M140,60 L140,40 L180,40 L177,41 L142,41 L142,58 L140,60 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip25">
+                <path d="M139.5,39.5 L179.5,39.5 L179.5,59.5 L139.5,59.5 L139.5,39.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip25)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="140,59 179,59" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip26">
+                <path d="M139.5,39.5 L179.5,39.5 L179.5,59.5 L139.5,59.5 L139.5,39.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip26)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="179,59 179,40" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip27">
+                <path d="M139.5,39.5 L179.5,39.5 L179.5,59.5 L139.5,59.5 L139.5,39.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip27)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="179,40 140,40" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip28">
+                <path d="M139.5,39.5 L179.5,39.5 L179.5,59.5 L139.5,59.5 L139.5,39.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip28)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="140,40 140,59" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip29">
+                <path d="M-20,-10 L20,-10 L20,10 L-20,10 L-20,-10 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip29)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,160,50)">
+              <text fill="#000000" fill-opacity="1" font-family="Arial" font-size="10" font-style="normal" font-weight="400" stroke="none" textLength="33.8438" x="-16.9219" xml:space="preserve" y="3.5">weights</text>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="blk frame">
+            <g clip-path="none" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,140,40)">
+              <path d="M0,0 L40,0 L40,20 L0,20 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="blk BlockName">
+            <defs>
+              <clipPath id="clip30">
+                <path d="M-100.125,-24 L312.547,-24 L312.547,34 L-100.125,34 L-100.125,-24 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip30)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,132.82,62)">
+              <text fill="#000000" fill-opacity="1" font-family="Arial" font-size="10" font-style="normal" font-weight="400" stroke="none" textLength="52.3594" x="1" xml:space="preserve" y="10">IW{2,1}(1,:)'</text>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="blk">
+        <!--RAWSTRING-->
+        <g id="DVR_PI_fault_neural_ntwk:239">
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,340,60)">
+            <path d="M0,0 L40,0 L40,20 L0,20 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="blk">
+            <defs>
+              <clipPath id="clip32">
+                <path d="M340,60 L380,60 L380,80 L340,80 L340,60 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip32)" fill="#7896e6" fill-opacity="1" opacity="1" stroke="#7896e6" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+              <path d="M340,80 L380,80 L380,60 L340,60 L340,80 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip33">
+                <path d="M340,60 L380,60 L380,80 L340,80 L340,60 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip33)" fill="#506499" fill-opacity="1" opacity="1" stroke="#506499" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+              <path d="M340,80 L380,80 L380,60 L377,61 L377,78 L342,78 L340,80 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip34">
+                <path d="M340,60 L380,60 L380,80 L340,80 L340,60 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip34)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#a5b9ee" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+              <path d="M340,80 L340,60 L380,60 L377,61 L342,61 L342,78 L340,80 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip35">
+                <path d="M339.5,59.5 L379.5,59.5 L379.5,79.5 L339.5,79.5 L339.5,59.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip35)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="340,79 379,79" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip36">
+                <path d="M339.5,59.5 L379.5,59.5 L379.5,79.5 L339.5,79.5 L339.5,59.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip36)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="379,79 379,60" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip37">
+                <path d="M339.5,59.5 L379.5,59.5 L379.5,79.5 L339.5,79.5 L339.5,59.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip37)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="379,60 340,60" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip38">
+                <path d="M339.5,59.5 L379.5,59.5 L379.5,79.5 L339.5,79.5 L339.5,59.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip38)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="340,60 340,79" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip39">
+                <path d="M-20,-10 L20,-10 L20,10 L-20,10 L-20,-10 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip39)" fill="#a5b9ee" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,360,70)">
+              <text fill="#000000" fill-opacity="1" font-family="Arial" font-size="10" font-style="normal" font-weight="400" stroke="none" textLength="18.875" x="-9.4375" xml:space="preserve" y="3.5">Mux</text>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="blk frame">
+            <g clip-path="none" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,340,60)">
+              <path d="M0,0 L40,0 L40,20 L0,20 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g data-tags="blk">
+        <!--RAWSTRING-->
+        <g id="DVR_PI_fault_neural_ntwk:241">
+          <g clip-path="none" fill="#ffffff" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,420,60)">
+            <path d="M0,0 L20,0 L20,20 L0,20 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="blk">
+            <defs>
+              <clipPath id="clip41">
+                <path d="M420,60 L440,60 L440,80 L420,80 L420,60 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip41)" fill="#78e6b4" fill-opacity="1" opacity="1" stroke="#78e6b4" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+              <path d="M420,80 L440,80 L440,60 L420,60 L420,80 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip42">
+                <path d="M420,60 L440,60 L440,80 L420,80 L420,60 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip42)" fill="#509978" fill-opacity="1" opacity="1" stroke="#509978" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+              <path d="M420,80 L440,80 L440,60 L438,61 L438,78 L421,78 L420,80 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip43">
+                <path d="M420,60 L440,60 L440,80 L420,80 L420,60 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip43)" fill="#a5eecd" fill-opacity="1" opacity="1" stroke="#a5eecd" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+              <path d="M420,80 L420,60 L440,60 L438,61 L421,61 L421,78 L420,80 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip44">
+                <path d="M419.5,59.5 L439.5,59.5 L439.5,79.5 L419.5,79.5 L419.5,59.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip44)" fill="#a5eecd" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="420,79 439,79" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip45">
+                <path d="M419.5,59.5 L439.5,59.5 L439.5,79.5 L419.5,79.5 L419.5,59.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip45)" fill="#a5eecd" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="439,79 439,60" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip46">
+                <path d="M419.5,59.5 L439.5,59.5 L439.5,79.5 L419.5,79.5 L419.5,59.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip46)" fill="#a5eecd" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="439,60 420,60" vector-effect="none"/>
+            </g>
+            <defs>
+              <clipPath id="clip47">
+                <path d="M419.5,59.5 L439.5,59.5 L439.5,79.5 L419.5,79.5 L419.5,59.5 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip47)" fill="#a5eecd" fill-opacity="1" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0.5,0.5)">
+              <polyline fill="none" points="420,60 420,79" vector-effect="none"/>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="blk frame">
+            <g clip-path="none" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,420,60)">
+              <path d="M0,0 L20,0 L20,20 L0,20 L0,0 z" fill-rule="evenodd" vector-effect="none"/>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <!--RAWSTRING-->
+          <g data-tags="blk BlockName">
+            <defs>
+              <clipPath id="clip48">
+                <path d="M-381.938,-44 L30.7344,-44 L30.7344,14 L-381.938,14 L-381.938,-44 z"/>
+              </clipPath>
+            </defs>
+            <g clip-path="url(#clip48)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,414.633,82)">
+              <text fill="#000000" fill-opacity="1" font-family="Arial" font-size="10" font-style="normal" font-weight="400" stroke="none" textLength="27.7344" x="1.5" xml:space="preserve" y="10">lz{2,1}</text>
+            </g>
+            <!--RAWSTRING-->
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g id="DVR_PI_fault_neural_ntwk:238#out:1">
+        <!--RAWSTRING-->
+        <g data-tags="PathIntersectionsEnabledTag">
+          <g clip-path="none" fill="#000000" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,240,50)">
+            <path d="M0,0 L-8,-4 L-8,4 L0,0 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+            <path d="M180,50 L232,50" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g id="DVR_PI_fault_neural_ntwk:237#out:1">
+        <!--RAWSTRING-->
+        <g data-tags="PathIntersectionsEnabledTag">
+          <g clip-path="none" fill="#000000" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,240,70)">
+            <path d="M0,0 L-8,-4 L-8,4 L0,0 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+            <path d="M60,70 L232,70" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g id="DVR_PI_fault_neural_ntwk:240#out:1">
+        <!--RAWSTRING-->
+        <g data-tags="PathIntersectionsEnabledTag">
+          <g clip-path="none" fill="#000000" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,340,70)">
+            <path d="M0,0 L-8,-4 L-8,4 L0,0 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+            <path d="M260,60 L265,60 L325,70 L332,70" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g id="DVR_PI_fault_neural_ntwk:239#out:1">
+        <!--RAWSTRING-->
+        <g data-tags="PathIntersectionsEnabledTag">
+          <g clip-path="none" fill="#000000" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,420,70)">
+            <path d="M0,0 L-8,-4 L-8,4 L0,0 z" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <g clip-path="none" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,0,0)">
+            <path d="M380,70 L412,70" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+    </g>
+  </g>
+  <!--generated on windows @ 2022-11-27 22:09:15 E. Africa Standard Time-->
+</svg>
